@@ -1,0 +1,5 @@
+hadoop MaxTemperatureWithCombiner input/ncdc/sample.txt output
+
+--cloudera-local
+
+	hadoop jar maxtemp.jar MaxTemperatureWithCombiner defguide/1901 defguide/output_comb/

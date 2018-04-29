@@ -1,0 +1,391 @@
+2018-04-29 02:56:57,555 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.hadoopbook:book:4.0 @ /home/cloudera/workspace_def_guide/book/pom.xml.
+2018-04-29 02:56:58,704 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:common:4.0 @ /home/cloudera/workspace_def_guide/common/pom.xml.
+2018-04-29 02:57:01,826 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch02-mr-intro:4.0 @ /home/cloudera/workspace_def_guide/ch02-mr-intro/pom.xml.
+2018-04-29 02:57:02,260 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch03-hdfs:4.0 @ /home/cloudera/workspace_def_guide/ch03-hdfs/pom.xml.
+2018-04-29 02:57:03,170 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch05-io:4.0 @ /home/cloudera/workspace_def_guide/ch05-io/pom.xml.
+2018-04-29 02:57:03,401 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch06-mr-dev:4.0 @ /home/cloudera/workspace_def_guide/ch06-mr-dev/pom.xml.
+2018-04-29 02:57:04,059 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch08-mr-types:4.0 @ /home/cloudera/workspace_def_guide/ch08-mr-types/pom.xml.
+2018-04-29 02:57:04,480 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch09-mr-features:4.0 @ /home/cloudera/workspace_def_guide/ch09-mr-features/pom.xml.
+2018-04-29 02:57:04,742 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch12-avro:4.0 @ /home/cloudera/workspace_def_guide/ch12-avro/pom.xml.
+2018-04-29 02:57:04,906 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch13-parquet:4.0 @ /home/cloudera/workspace_def_guide/ch13-parquet/pom.xml.
+2018-04-29 02:57:05,127 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch15-sqoop:4.0 @ /home/cloudera/workspace_def_guide/ch15-sqoop/pom.xml.
+2018-04-29 02:57:05,260 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch16-pig:4.0 @ /home/cloudera/workspace_def_guide/ch16-pig/pom.xml.
+2018-04-29 02:57:05,615 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch17-hive:4.0 @ /home/cloudera/workspace_def_guide/ch17-hive/pom.xml.
+2018-04-29 02:57:05,982 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch18-crunch:4.0 @ /home/cloudera/workspace_def_guide/ch18-crunch/pom.xml.
+2018-04-29 02:57:06,151 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch19-spark:4.0 @ /home/cloudera/workspace_def_guide/ch19-spark/pom.xml.
+2018-04-29 02:57:06,870 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch20-hbase:4.0 @ /home/cloudera/workspace_def_guide/ch20-hbase/pom.xml.
+2018-04-29 02:57:07,754 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch21-zk:4.0 @ /home/cloudera/workspace_def_guide/ch21-zk/pom.xml.
+2018-04-29 02:57:07,846 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch22-case-studies:4.0 @ /home/cloudera/workspace_def_guide/ch22-case-studies/pom.xml.
+2018-04-29 02:57:07,991 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.hadoopbook:hadoop-examples:4.0 @ /home/cloudera/workspace_def_guide/hadoop-examples/pom.xml.
+2018-04-29 02:57:08,309 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:snippet:4.0 @ /home/cloudera/workspace_def_guide/snippet/pom.xml.
+2018-04-29 02:57:13,546 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.hadoopbook:book:4.0 @ /home/cloudera/workspace_def_guide/book/pom.xml.
+2018-04-29 02:57:13,551 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /snippet/src/main/java
+2018-04-29 02:57:13,552 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /snippet/src/test/java
+2018-04-29 02:57:13,552 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /snippet/src/test/resources
+2018-04-29 02:57:13,553 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.hadoopbook:hadoop-examples:4.0 @ /home/cloudera/workspace_def_guide/hadoop-examples/pom.xml.
+2018-04-29 02:57:13,881 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch02-mr-intro/src/main/java
+2018-04-29 02:57:13,894 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch02-mr-intro/src/test/java
+2018-04-29 02:57:14,143 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/main/java
+2018-04-29 02:57:14,144 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/test/java
+2018-04-29 02:57:14,225 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch21-zk:4.0 @ /home/cloudera/workspace_def_guide/ch21-zk/pom.xml.
+2018-04-29 02:57:14,267 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:snippet:4.0 @ /home/cloudera/workspace_def_guide/snippet/pom.xml.
+2018-04-29 02:57:14,286 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch03-hdfs/src/main/java
+2018-04-29 02:57:14,290 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch03-hdfs/src/test/java
+2018-04-29 02:57:14,336 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch19-spark:4.0 @ /home/cloudera/workspace_def_guide/ch19-spark/pom.xml.
+2018-04-29 02:57:14,511 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch05-io/src/main/java
+2018-04-29 02:57:14,512 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch05-io/src/test/java
+2018-04-29 02:57:14,512 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ch05-io/src/test/resources
+2018-04-29 02:57:14,772 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch06-mr-dev/src/main/java
+2018-04-29 02:57:14,773 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ch06-mr-dev/src/main/resources
+2018-04-29 02:57:14,773 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch06-mr-dev/src/test/java
+2018-04-29 02:57:14,773 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ch06-mr-dev/src/test/resources
+2018-04-29 02:57:14,775 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:common:4.0 @ /home/cloudera/workspace_def_guide/common/pom.xml.
+2018-04-29 02:57:15,022 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch08-mr-types/src/main/java
+2018-04-29 02:57:15,023 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch08-mr-types/src/test/java
+2018-04-29 02:57:15,100 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch02-mr-intro:4.0 @ /home/cloudera/workspace_def_guide/ch02-mr-intro/pom.xml.
+2018-04-29 02:57:15,174 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch09-mr-features/src/main/java
+2018-04-29 02:57:15,174 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ch09-mr-features/src/main/resources
+2018-04-29 02:57:15,175 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch09-mr-features/src/test/java
+2018-04-29 02:57:15,196 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch03-hdfs:4.0 @ /home/cloudera/workspace_def_guide/ch03-hdfs/pom.xml.
+2018-04-29 02:57:15,322 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch13-parquet/src/main/java
+2018-04-29 02:57:15,323 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch13-parquet/src/test/java
+2018-04-29 02:57:15,323 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ch13-parquet/src/test/resources
+2018-04-29 02:57:15,353 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch05-io:4.0 @ /home/cloudera/workspace_def_guide/ch05-io/pom.xml.
+2018-04-29 02:57:15,413 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch16-pig/src/main/java
+2018-04-29 02:57:15,414 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch16-pig/src/test/java
+2018-04-29 02:57:15,472 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch06-mr-dev:4.0 @ /home/cloudera/workspace_def_guide/ch06-mr-dev/pom.xml.
+2018-04-29 02:57:15,545 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch22-case-studies/src/main/java
+2018-04-29 02:57:15,549 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch22-case-studies/src/test/java
+2018-04-29 02:57:15,599 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch08-mr-types:4.0 @ /home/cloudera/workspace_def_guide/ch08-mr-types/pom.xml.
+2018-04-29 02:57:15,905 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch12-avro/src/main/java
+2018-04-29 02:57:15,905 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ch12-avro/src/main/resources
+2018-04-29 02:57:15,906 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch12-avro/src/test/java
+2018-04-29 02:57:16,035 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch09-mr-features:4.0 @ /home/cloudera/workspace_def_guide/ch09-mr-features/pom.xml.
+2018-04-29 02:57:16,497 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch20-hbase/src/main/java
+2018-04-29 02:57:16,498 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch20-hbase/src/test/java
+2018-04-29 02:57:17,358 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch15-sqoop/src/main/java
+2018-04-29 02:57:17,360 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch15-sqoop/src/test/java
+2018-04-29 02:57:17,368 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch12-avro:4.0 @ /home/cloudera/workspace_def_guide/ch12-avro/pom.xml.
+2018-04-29 02:57:17,906 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch13-parquet:4.0 @ /home/cloudera/workspace_def_guide/ch13-parquet/pom.xml.
+2018-04-29 02:57:17,906 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch18-crunch/src/main/java
+2018-04-29 02:57:17,907 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch18-crunch/src/test/java
+2018-04-29 02:57:17,907 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ch18-crunch/src/test/resources
+2018-04-29 02:57:18,173 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch19-spark/src/main/java
+2018-04-29 02:57:18,174 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch19-spark/src/test/java
+2018-04-29 02:57:18,174 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ch19-spark/src/test/resources
+2018-04-29 02:57:18,626 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch15-sqoop:4.0 @ /home/cloudera/workspace_def_guide/ch15-sqoop/pom.xml.
+2018-04-29 02:57:18,686 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch21-zk/src/main/java
+2018-04-29 02:57:18,691 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch21-zk/src/test/java
+2018-04-29 02:57:18,899 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch17-hive/src/main/java
+2018-04-29 02:57:18,900 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch17-hive/src/test/java
+2018-04-29 02:57:19,188 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch16-pig:4.0 @ /home/cloudera/workspace_def_guide/ch16-pig/pom.xml.
+2018-04-29 02:57:19,219 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 20 project(s) in 25 sec
+2018-04-29 02:57:19,993 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch17-hive:4.0 @ /home/cloudera/workspace_def_guide/ch17-hive/pom.xml.
+2018-04-29 02:57:20,372 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch18-crunch:4.0 @ /home/cloudera/workspace_def_guide/ch18-crunch/pom.xml.
+2018-04-29 02:57:20,573 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch19-spark:4.0 @ /home/cloudera/workspace_def_guide/ch19-spark/pom.xml.
+2018-04-29 02:57:20,703 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch20-hbase:4.0 @ /home/cloudera/workspace_def_guide/ch20-hbase/pom.xml.
+2018-04-29 02:57:21,137 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch21-zk:4.0 @ /home/cloudera/workspace_def_guide/ch21-zk/pom.xml.
+2018-04-29 02:57:21,174 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch22-case-studies:4.0 @ /home/cloudera/workspace_def_guide/ch22-case-studies/pom.xml.
+2018-04-29 02:57:21,229 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:snippet:4.0 @ /home/cloudera/workspace_def_guide/snippet/pom.xml.
+2018-04-29 02:57:21,248 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.hadoopbook:hadoop-examples:4.0 @ /home/cloudera/workspace_def_guide/hadoop-examples/pom.xml.
+2018-04-29 02:57:21,502 [Worker-2] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy1661556955416786981.tmp/org.eclipse.m2e.discovery.oss_catalog_1.5.jar_3978817215498390561.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp.xml
+2018-04-29 02:57:21,503 [Worker-2] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2018-04-29 02:57:21,512 [Worker-2] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy1661556955416786981.tmp/org.eclipse.m2e.discovery.oss_catalog_1.5.jar_3978817215498390561.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2018-04-29 02:57:21,512 [Worker-2] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2018-04-29 02:57:21,512 [Worker-2] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy1661556955416786981.tmp/org.eclipse.m2e.discovery.oss_catalog_1.5.jar_3978817215498390561.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2018-04-29 02:57:21,513 [Worker-2] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2018-04-29 02:57:21,513 [Worker-2] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy1661556955416786981.tmp/org.eclipse.m2e.discovery.oss_catalog_1.5.jar_3978817215498390561.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse.xml
+2018-04-29 02:57:21,514 [Worker-2] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2018-04-29 02:57:26,956 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:26,957 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch02-mr-intro/src/main/resources
+2018-04-29 02:57:26,959 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:26,959 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch02-mr-intro/src/test/resources
+2018-04-29 02:57:27,598 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:27,598 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch03-hdfs/src/main/resources
+2018-04-29 02:57:27,599 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:27,599 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch03-hdfs/src/test/resources
+2018-04-29 02:57:28,466 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:28,466 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch05-io/src/main/resources
+2018-04-29 02:57:28,467 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:28,512 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-29 02:57:29,257 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:29,257 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-04-29 02:57:29,288 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:29,288 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-29 02:57:30,314 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:30,315 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-04-29 02:57:30,326 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:30,326 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch12-avro/src/test/resources
+2018-04-29 02:57:30,894 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:30,895 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch13-parquet/src/main/resources
+2018-04-29 02:57:30,896 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:30,896 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-04-29 02:57:31,301 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:31,301 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch15-sqoop/src/main/resources
+2018-04-29 02:57:31,302 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:31,302 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch15-sqoop/src/test/resources
+2018-04-29 02:57:31,685 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:31,685 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch16-pig/src/main/resources
+2018-04-29 02:57:31,688 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:31,688 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch16-pig/src/test/resources
+2018-04-29 02:57:32,299 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:32,299 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch17-hive/src/main/resources
+2018-04-29 02:57:32,300 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:32,300 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch17-hive/src/test/resources
+2018-04-29 02:57:33,185 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:33,186 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch18-crunch/src/main/resources
+2018-04-29 02:57:33,187 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:33,188 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2018-04-29 02:57:33,726 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:33,726 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch19-spark/src/main/resources
+2018-04-29 02:57:33,728 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:33,728 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-29 02:57:33,867 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:33,867 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch21-zk/src/main/resources
+2018-04-29 02:57:33,868 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:33,868 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch21-zk/src/test/resources
+2018-04-29 02:57:34,355 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:34,356 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch22-case-studies/src/main/resources
+2018-04-29 02:57:34,357 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:34,357 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch22-case-studies/src/test/resources
+2018-04-29 02:57:34,836 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:34,837 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/common/src/main/resources
+2018-04-29 02:57:34,838 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:34,838 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/common/src/test/resources
+2018-04-29 02:57:35,572 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:35,572 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch20-hbase/src/main/resources
+2018-04-29 02:57:35,573 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:35,573 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch20-hbase/src/test/resources
+2018-04-29 02:57:36,234 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:36,234 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-29 02:57:36,241 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:36,241 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch09-mr-features/src/test/resources
+2018-04-29 02:57:36,964 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:36,964 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch08-mr-types/src/main/resources
+2018-04-29 02:57:36,965 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:36,965 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch08-mr-types/src/test/resources
+2018-04-29 02:57:37,213 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:37,213 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/snippet/src/main/resources
+2018-04-29 02:57:37,214 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 02:57:37,214 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-29 03:01:54,787 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-29 03:01:54,789 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-04-29 03:04:03,249 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-29 03:04:05,645 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch02-mr-intro:4.0 @ /home/cloudera/workspace_def_guide/ch02-mr-intro/pom.xml.
+2018-04-29 03:04:06,544 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch18-crunch:4.0 @ /home/cloudera/workspace_def_guide/ch18-crunch/pom.xml.
+2018-04-29 03:04:06,737 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch08-mr-types:4.0 @ /home/cloudera/workspace_def_guide/ch08-mr-types/pom.xml.
+2018-04-29 03:04:06,881 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:common:4.0 @ /home/cloudera/workspace_def_guide/common/pom.xml.
+2018-04-29 03:04:06,978 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch05-io:4.0 @ /home/cloudera/workspace_def_guide/ch05-io/pom.xml.
+2018-04-29 03:04:07,076 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch13-parquet:4.0 @ /home/cloudera/workspace_def_guide/ch13-parquet/pom.xml.
+2018-04-29 03:04:07,177 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch09-mr-features:4.0 @ /home/cloudera/workspace_def_guide/ch09-mr-features/pom.xml.
+2018-04-29 03:04:07,262 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:snippet:4.0 @ /home/cloudera/workspace_def_guide/snippet/pom.xml.
+2018-04-29 03:04:07,317 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch06-mr-dev:4.0 @ /home/cloudera/workspace_def_guide/ch06-mr-dev/pom.xml.
+2018-04-29 03:04:07,422 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch03-hdfs:4.0 @ /home/cloudera/workspace_def_guide/ch03-hdfs/pom.xml.
+2018-04-29 03:04:07,517 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch20-hbase:4.0 @ /home/cloudera/workspace_def_guide/ch20-hbase/pom.xml.
+2018-04-29 03:04:08,019 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch16-pig:4.0 @ /home/cloudera/workspace_def_guide/ch16-pig/pom.xml.
+2018-04-29 03:04:08,207 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch15-sqoop:4.0 @ /home/cloudera/workspace_def_guide/ch15-sqoop/pom.xml.
+2018-04-29 03:04:08,350 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch17-hive:4.0 @ /home/cloudera/workspace_def_guide/ch17-hive/pom.xml.
+2018-04-29 03:04:08,516 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.hadoopbook:book:4.0 @ /home/cloudera/workspace_def_guide/book/pom.xml.
+2018-04-29 03:04:08,592 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch19-spark:4.0 @ /home/cloudera/workspace_def_guide/ch19-spark/pom.xml.
+2018-04-29 03:04:09,031 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch22-case-studies:4.0 @ /home/cloudera/workspace_def_guide/ch22-case-studies/pom.xml.
+2018-04-29 03:04:09,216 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch21-zk:4.0 @ /home/cloudera/workspace_def_guide/ch21-zk/pom.xml.
+2018-04-29 03:04:09,298 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hadoopbook:ch12-avro:4.0 @ /home/cloudera/workspace_def_guide/ch12-avro/pom.xml.
+2018-04-29 03:04:09,423 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.hadoopbook:hadoop-examples:4.0 @ /home/cloudera/workspace_def_guide/hadoop-examples/pom.xml.
+2018-04-29 03:04:12,859 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch02-mr-intro/src/main/java
+2018-04-29 03:04:12,859 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch02-mr-intro/src/test/java
+2018-04-29 03:04:12,964 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch18-crunch/src/main/java
+2018-04-29 03:04:12,966 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch18-crunch/src/test/java
+2018-04-29 03:04:12,966 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ch18-crunch/src/test/resources
+2018-04-29 03:04:13,225 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch08-mr-types/src/main/java
+2018-04-29 03:04:13,225 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch08-mr-types/src/test/java
+2018-04-29 03:04:13,427 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/main/java
+2018-04-29 03:04:13,428 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/test/java
+2018-04-29 03:04:13,546 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch05-io/src/main/java
+2018-04-29 03:04:13,547 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch05-io/src/test/java
+2018-04-29 03:04:13,547 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ch05-io/src/test/resources
+2018-04-29 03:04:13,635 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch13-parquet/src/main/java
+2018-04-29 03:04:13,635 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch13-parquet/src/test/java
+2018-04-29 03:04:13,636 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ch13-parquet/src/test/resources
+2018-04-29 03:04:13,798 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch09-mr-features/src/main/java
+2018-04-29 03:04:13,798 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ch09-mr-features/src/main/resources
+2018-04-29 03:04:13,799 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch09-mr-features/src/test/java
+2018-04-29 03:04:13,911 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /snippet/src/main/java
+2018-04-29 03:04:13,911 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /snippet/src/test/java
+2018-04-29 03:04:13,911 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /snippet/src/test/resources
+2018-04-29 03:04:13,956 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch06-mr-dev/src/main/java
+2018-04-29 03:04:13,956 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ch06-mr-dev/src/main/resources
+2018-04-29 03:04:13,957 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch06-mr-dev/src/test/java
+2018-04-29 03:04:13,957 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ch06-mr-dev/src/test/resources
+2018-04-29 03:04:14,406 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch03-hdfs/src/main/java
+2018-04-29 03:04:14,407 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch03-hdfs/src/test/java
+2018-04-29 03:04:14,474 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch20-hbase/src/main/java
+2018-04-29 03:04:14,475 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch20-hbase/src/test/java
+2018-04-29 03:04:14,546 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch16-pig/src/main/java
+2018-04-29 03:04:14,547 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch16-pig/src/test/java
+2018-04-29 03:04:14,619 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch15-sqoop/src/main/java
+2018-04-29 03:04:14,620 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch15-sqoop/src/test/java
+2018-04-29 03:04:14,720 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch17-hive/src/main/java
+2018-04-29 03:04:14,723 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch17-hive/src/test/java
+2018-04-29 03:04:14,880 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch19-spark/src/main/java
+2018-04-29 03:04:14,881 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch19-spark/src/test/java
+2018-04-29 03:04:14,881 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ch19-spark/src/test/resources
+2018-04-29 03:04:15,286 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch22-case-studies/src/main/java
+2018-04-29 03:04:15,287 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch22-case-studies/src/test/java
+2018-04-29 03:04:15,370 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch21-zk/src/main/java
+2018-04-29 03:04:15,373 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch21-zk/src/test/java
+2018-04-29 03:04:15,400 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch12-avro/src/main/java
+2018-04-29 03:04:15,400 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ch12-avro/src/main/resources
+2018-04-29 03:04:15,401 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ch12-avro/src/test/java
+2018-04-29 03:04:16,126 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 12 sec
+2018-04-29 03:04:17,274 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:17,275 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch02-mr-intro/src/main/resources
+2018-04-29 03:04:17,278 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:17,278 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch02-mr-intro/src/test/resources
+2018-04-29 03:04:18,168 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:18,169 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch03-hdfs/src/main/resources
+2018-04-29 03:04:18,170 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:18,170 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch03-hdfs/src/test/resources
+2018-04-29 03:04:18,861 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:18,861 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch05-io/src/main/resources
+2018-04-29 03:04:18,863 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:18,871 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-29 03:04:19,414 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:19,414 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-04-29 03:04:19,417 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:19,417 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-29 03:04:20,197 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:20,200 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-04-29 03:04:20,207 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:20,512 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch12-avro/src/test/resources
+2018-04-29 03:04:21,197 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:21,197 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch13-parquet/src/main/resources
+2018-04-29 03:04:21,199 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:21,199 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-04-29 03:04:22,279 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:22,279 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch15-sqoop/src/main/resources
+2018-04-29 03:04:22,280 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:22,280 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch15-sqoop/src/test/resources
+2018-04-29 03:04:22,829 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:22,829 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch16-pig/src/main/resources
+2018-04-29 03:04:22,832 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:22,832 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch16-pig/src/test/resources
+2018-04-29 03:04:23,370 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:23,370 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch17-hive/src/main/resources
+2018-04-29 03:04:23,372 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:23,372 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch17-hive/src/test/resources
+2018-04-29 03:04:24,471 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:24,471 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch18-crunch/src/main/resources
+2018-04-29 03:04:24,474 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:24,475 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2018-04-29 03:04:25,043 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:25,043 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch19-spark/src/main/resources
+2018-04-29 03:04:25,044 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:25,044 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-29 03:04:25,207 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:25,207 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch21-zk/src/main/resources
+2018-04-29 03:04:25,208 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:25,208 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch21-zk/src/test/resources
+2018-04-29 03:04:25,990 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:25,990 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch22-case-studies/src/main/resources
+2018-04-29 03:04:25,991 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:25,991 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch22-case-studies/src/test/resources
+2018-04-29 03:04:26,753 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:26,753 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/common/src/main/resources
+2018-04-29 03:04:26,754 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:26,754 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/common/src/test/resources
+2018-04-29 03:04:27,647 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:27,647 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch20-hbase/src/main/resources
+2018-04-29 03:04:27,648 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:27,648 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch20-hbase/src/test/resources
+2018-04-29 03:04:28,103 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:28,104 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-29 03:04:28,108 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:28,108 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch09-mr-features/src/test/resources
+2018-04-29 03:04:28,979 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:28,979 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch08-mr-types/src/main/resources
+2018-04-29 03:04:28,980 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:28,980 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch08-mr-types/src/test/resources
+2018-04-29 03:04:29,428 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:29,428 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/snippet/src/main/resources
+2018-04-29 03:04:29,429 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:04:29,429 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-29 03:11:54,984 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:54,989 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch02-mr-intro/src/main/resources
+2018-04-29 03:11:54,990 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:54,990 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch02-mr-intro/src/test/resources
+2018-04-29 03:11:55,386 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:55,387 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch03-hdfs/src/main/resources
+2018-04-29 03:11:55,387 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:55,388 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch03-hdfs/src/test/resources
+2018-04-29 03:11:55,945 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:55,945 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch05-io/src/main/resources
+2018-04-29 03:11:55,946 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:55,951 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-29 03:11:56,269 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:56,270 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-29 03:11:56,272 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:56,272 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-29 03:11:56,526 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:56,527 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-29 03:11:56,528 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:56,528 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch12-avro/src/test/resources
+2018-04-29 03:11:56,867 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:56,867 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch13-parquet/src/main/resources
+2018-04-29 03:11:56,868 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:56,869 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-29 03:11:57,137 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:57,138 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch15-sqoop/src/main/resources
+2018-04-29 03:11:57,139 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:57,139 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch15-sqoop/src/test/resources
+2018-04-29 03:11:57,361 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:57,361 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch16-pig/src/main/resources
+2018-04-29 03:11:57,362 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:57,362 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch16-pig/src/test/resources
+2018-04-29 03:11:57,807 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:57,807 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch17-hive/src/main/resources
+2018-04-29 03:11:57,808 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:57,808 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch17-hive/src/test/resources
+2018-04-29 03:11:58,111 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:58,111 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch18-crunch/src/main/resources
+2018-04-29 03:11:58,112 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:58,113 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-29 03:11:58,437 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:58,438 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch19-spark/src/main/resources
+2018-04-29 03:11:58,439 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:58,449 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-29 03:11:58,467 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:58,467 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch21-zk/src/main/resources
+2018-04-29 03:11:58,468 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:58,468 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch21-zk/src/test/resources
+2018-04-29 03:11:58,694 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:58,694 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch22-case-studies/src/main/resources
+2018-04-29 03:11:58,695 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:58,695 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch22-case-studies/src/test/resources
+2018-04-29 03:11:58,861 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:58,861 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/common/src/main/resources
+2018-04-29 03:11:58,862 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:58,862 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/common/src/test/resources
+2018-04-29 03:11:59,288 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:59,288 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch20-hbase/src/main/resources
+2018-04-29 03:11:59,289 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:59,289 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch20-hbase/src/test/resources
+2018-04-29 03:11:59,682 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:59,683 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-29 03:11:59,684 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:59,684 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch09-mr-features/src/test/resources
+2018-04-29 03:11:59,971 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:59,971 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch08-mr-types/src/main/resources
+2018-04-29 03:11:59,972 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:59,972 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch08-mr-types/src/test/resources
+2018-04-29 03:11:59,992 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:59,992 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/snippet/src/main/resources
+2018-04-29 03:11:59,993 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 03:11:59,994 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-29 13:03:46,812 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 13:03:46,818 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch02-mr-intro/src/main/resources
+2018-04-29 13:03:46,821 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 13:03:46,821 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch02-mr-intro/src/test/resources
+2018-04-29 13:12:02,198 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 13:12:02,202 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch02-mr-intro/src/main/resources
+2018-04-29 13:12:02,204 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-29 13:12:02,205 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cloudera/workspace_def_guide/ch02-mr-intro/src/test/resources
